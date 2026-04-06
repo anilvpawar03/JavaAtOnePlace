@@ -13,10 +13,14 @@ public class IfExample {
 			 * If block statements
 			 */
 			
-			System.out.println("A is Greater then 10");
+			System.out.println("A is Greater than 10");
 	}
 
-		System.out.println("Out of if block");
+		
+			
+			System.out.println("Out of if block");
+		
+		
 		
 		
 	}
