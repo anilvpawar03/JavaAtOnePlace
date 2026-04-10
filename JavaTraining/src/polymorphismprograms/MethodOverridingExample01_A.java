@@ -5,7 +5,7 @@ public class MethodOverridingExample01_A {
 	
 	public void eat()   {
 		
-		System.out.println("I am eatind");
+		System.out.println("I am eating");
 	}
 	
 	
