@@ -1,25 +1,30 @@
 package task3;
 
+import java.util.Scanner;
+
 public class CheckEvenOddPrime {
 
 	public static void main(String[] args) {
 		
 		//Check given number is Even or Odd
 		
-		int num = 44;
-		if (num % 2== 0)   {
-			
-			System.out.println("Even Number");
-		}
-		
-		else {
-			System.out.println("Odd Number");
-		}
-		
-		
-		
-		
-		
-	}
+		  Scanner sc = new Scanner(System.in);
 
-}
+		  System.out.print("Enter number: ");
+		  int num = sc.nextInt();
+
+		        if (num % 2 == 0) {
+		        	
+		            System.out.println("Even number");
+		            
+		        } 
+		        else {
+		            System.out.println("Odd number");
+		        }
+		    }
+		
+		
+	
+    }
+
+
