@@ -3,7 +3,7 @@ package encapsulationprogram;
 
 class x {
 	
-	private int value;
+	private int value;   //Data Hiding
 	
 	//Setter Method
 	public void setValue(int x)   {
