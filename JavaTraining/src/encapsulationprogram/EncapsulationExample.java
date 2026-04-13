@@ -1,4 +1,4 @@
-package encapsulationprogram;
+ package encapsulationprogram;
 
 
 class x {
