@@ -8,11 +8,11 @@ final class Test1 {
 	
 	
 	
-	public class Main3 extends Test1   {
+	//public class Main3 extends Test1   {
 		
 	
 		
 			
-	}
+//	}
 
 }

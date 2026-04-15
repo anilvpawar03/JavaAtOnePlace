@@ -33,7 +33,7 @@ public class ScannerClassTask2 {
 		int r1 = sc.nextInt();
 		int t1 = sc.nextInt();
 		
-		int si =(p1 * r1 * t1)/100;
+		int si =(p1 * r1 * t1) /100;
 		System.out.println("Simple Interest is :"+si);
 		
 		

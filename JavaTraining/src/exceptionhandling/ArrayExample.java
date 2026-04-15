@@ -1,6 +1,6 @@
 package exceptionhandling;
           /*
-           * Array Index Out Of Bound Exception 
+           * Array Index Out Of Bounds Exception 
            * (When we try to access the index more than it's limit)
            */
 

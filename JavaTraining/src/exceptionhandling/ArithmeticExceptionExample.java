@@ -1,7 +1,7 @@
 package exceptionhandling;
 
 import java.util.Scanner;
-            //Arithmetic Exception (When we divide any number by '0' will get this exception
+            //Arithmetic Exception (When we divide any number by '0' will get this exception)
 public class ArithmeticExceptionExample {
 
 	public static void main(String[] args) {

@@ -7,7 +7,7 @@ public class FinalVariable {
 		final int A = 10;
 		System.out.println(A);
 		
-		A = 20;
+	//	A = 20;
 		
 	}
 
