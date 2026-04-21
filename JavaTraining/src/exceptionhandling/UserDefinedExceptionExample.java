@@ -1,8 +1,8 @@
 package exceptionhandling;
-
+//Throw keyword 
 
 // Create Custom/Userdefined Exception 
-
+    
 class InvalidAgeException extends Exception {
 	
 	InvalidAgeException(String msg)   {
