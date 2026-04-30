@@ -34,7 +34,7 @@ class Lion extends animal
 }
 
 
-class AbstractiClass {
+class AbstractClass {
 
 	public static void main(String[] args) {
 		

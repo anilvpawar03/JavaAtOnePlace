@@ -14,8 +14,8 @@ public class MethodOverridingExample01_B extends MethodOverridingExample01_A {
 		MethodOverridingExample01_B obj = new MethodOverridingExample01_B();
 		
 		obj.eat();        
-		/* method is same for both but which is going execute is decided by object 
-		 * Whichever class's object we created that run's first.
+		/* method is same for both but which is going to execute is decided by object 
+		 * Whichever class's object we have created that will run's first.
 		 * i.e.Child class 
 		 * 
 		 *If we have to execute both methods then for that we have to use "super" keyword.
