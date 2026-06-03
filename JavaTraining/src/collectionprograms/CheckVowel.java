@@ -9,7 +9,7 @@ public class CheckVowel {
 		
 		char ch = sc.next().charAt(0);
 		
-		
+		//Practice session(not related to collection programs)
 		
 		
 		if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' 
