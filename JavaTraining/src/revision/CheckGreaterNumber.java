@@ -1,6 +1,6 @@
 package revision;
 import java.util.Scanner;
-public class abc {
+public class CheckGreaterNumber {
 
 	public static void main(String[] args) {
 

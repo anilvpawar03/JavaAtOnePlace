@@ -1,11 +1,11 @@
-package collectionprograms;
+package revision;
 
 public class CompareString {
 
 	public static void main(String[] args) {
-
 		
-		String a = "Welcome";                  //Practice session(not related to collection programs)
+		
+		String a = "Welcome";                 
 		String b = "welcome";
 		
 		if (a.equals(b))  {
@@ -16,5 +16,7 @@ public class CompareString {
 	}
 
 }
+
+
 
 }
