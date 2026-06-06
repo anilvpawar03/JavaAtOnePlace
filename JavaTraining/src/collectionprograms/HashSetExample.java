@@ -35,7 +35,10 @@ public class HashSetExample {
 		
 		/*
 		 * Note:
-		 * 1.Insertion of Elements is not possible in HashSet
+		 * 1.Insertion of Elements is not possible in HashSet 
+		 *   Because insertion order not preserved.
+		 *   We have to convert it in ArrayList for these action.
+		 * 
 		 * 2.Accessing Specific Elements is also not possible in HashSet
 		 * 3.Convert HashSet into ArrayList(WorkAround Available)
 		 */
@@ -47,9 +50,7 @@ public class HashSetExample {
 		System.out.println(al);
 		System.out.println(al.get(2));
 		
-		//Read all the Elements using Looping Statement
-		
-		
+		//Read all the Elements using Looping Statement//
 		//Using Iterator
 		Iterator it = myset.iterator();
 		while(it.hasNext())  {
@@ -63,7 +64,7 @@ public class HashSetExample {
 		
 		//myset.clear();
 		
-		System.out.println(myset);
+		//System.out.println(myset);
 		}
 	}
 
